@@ -1,6 +1,19 @@
 {
-  "extends": "@logux/eslint-config/ts",
+  "env": {
+    "es2021": true
+  },
+  "extends": ["@logux/eslint-config", "plugin:react/recommended"],
   "rules": {
     "perfectionist/sort-interfaces": "error"
+  },
+  "settings": {
+    "import/resolver": {
+      "typescript": {
+        "alwaysTryTypes": true
+      }
+    },
+    "react": {
+      "version": "detect"
+    }
   }
 }
