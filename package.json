@@ -8,7 +8,8 @@
     "start": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "lint": "eslint src"
+    "lint": "eslint src",
+    "prepare": "husky install"
   },
   "keywords": [
     "React",
@@ -40,7 +41,9 @@
     "eslint-plugin-prefer-let": "3.0.1",
     "eslint-plugin-promise": "6.1.1",
     "eslint-plugin-react": "7.32.2",
+    "husky": "^8.0.0",
     "jsdom": "22.1.0",
+    "msw": "1.2.2",
     "postcss": "8.4.24",
     "postcss-custom-media": "9.1.5",
     "postcss-import": "15.1.0",
@@ -60,5 +63,8 @@
     "react-redux": "8.1.1",
     "react-router-dom": "6.14.0",
     "redux-persist": "6.0.0"
+  },
+  "msw": {
+    "workerDirectory": "public"
   }
 }
