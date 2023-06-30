@@ -1,6 +1,6 @@
 {
   "name": "baits-test",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "Online store with React/Redux",
   "main": "index.js",
   "scripts": {
