@@ -1,0 +1,17 @@
+@import url("../../../app/styles/breakpoints.css");
+
+.root {
+  display: flex;
+  gap: 16px;
+  max-width: 100%;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+@media screen and (max-width: 1919px) {
+  .root {
+    max-width: 1240px;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}

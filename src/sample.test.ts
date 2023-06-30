@@ -1,7 +1,5 @@
-import {describe, test} from 'vitest';
+import { describe, test } from 'vitest'
 
-describe("Accordion test", () => {
-  test("Should show title", () => {
-
-  })
+describe('Sample test', () => {
+  test('Should be success', () => {})
 })

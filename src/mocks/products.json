@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Cherry in chocolate",
+    "desc": "Flavored tea",
+    "image": "https://old.cantata.ru/upload/resize_cache/iblock/2f6/346_200_1/Vishnya-v-shokolade-100-kopiya.jpg",
+    "price": 449,
+    "weight": 70,
+    "rating": "4.6",
+    "type": "black",
+    "country": "Turkey"
+  },
+  {
+    "id": 2,
+    "name": "Cherry in chocolate",
+    "desc": "Black tea",
+    "image": "https://old.cantata.ru/upload/resize_cache/iblock/a59/346_200_1/Serdtse-bamberga-100-kopiya.jpg",
+    "price": 89,
+    "weight": 800,
+    "rating": "4.6",
+    "type": "black",
+    "country": "India"
+  },
+  {
+    "id": 3,
+    "name": "Cherry in chocolate",
+    "desc": "Flavored tea",
+    "image": "https://old.cantata.ru/upload/resize_cache/iblock/2f6/346_200_1/Vishnya-v-shokolade-100-kopiya.jpg",
+    "price": 209,
+    "weight": 100,
+    "rating": "4.6",
+    "type": "black",
+    "country": "China"
+  },
+  {
+    "id": 4,
+    "name": "Cherry in chocolate",
+    "desc": "Black tea",
+    "image": "https://old.cantata.ru/upload/resize_cache/iblock/2f6/346_200_1/Vishnya-v-shokolade-100-kopiya.jpg",
+    "price": 49,
+    "weight": 250,
+    "rating": "4.6",
+    "type": "black",
+    "country": "India"
+  },
+  {
+    "id": 5,
+    "name": "Cherry in chocolate",
+    "desc": "Flavored tea",
+    "image": "https://old.cantata.ru/upload/resize_cache/iblock/700/346_200_1/Mangomaniya-100-kopiya.jpg",
+    "price": 100,
+    "weight": 300,
+    "rating": "4.6",
+    "type": "black",
+    "country": "China"
+  },
+  {
+    "id": 6,
+    "name": "Cherry in chocolate",
+    "desc": "Black tea",
+    "image": "https://old.cantata.ru/upload/resize_cache/iblock/2f6/346_200_1/Vishnya-v-shokolade-100-kopiya.jpg",
+    "price": 200,
+    "weight": 50,
+    "rating": "4.6",
+    "type": "black",
+    "country": "India"
+  },
+  {
+    "id": 7,
+    "name": "Cherry in chocolate",
+    "desc": "Flavored tea",
+    "image": "https://old.cantata.ru/upload/resize_cache/iblock/2f6/346_200_1/Vishnya-v-shokolade-100-kopiya.jpg",
+    "price": 400,
+    "weight": 10,
+    "rating": "4.6",
+    "type": "black",
+    "country": "India"
+  }
+]

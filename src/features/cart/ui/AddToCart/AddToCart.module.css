@@ -1,0 +1,28 @@
+.buttonContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.buttonAction {
+  padding: 0 15px;
+  line-height: inherit;
+}
+
+.buttonAction:hover {
+  background: var(--primary-color);
+  opacity: 0.7;
+}
+.button {
+  border: 1px solid rgba(48, 48, 48, 0.12);
+  display: flex;
+  justify-content: center;
+  background: transparent;
+  width: 130px;
+}
+
+.buttonWrapper {
+  display: flex;
+  justify-content: center;
+}
