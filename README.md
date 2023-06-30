@@ -5,7 +5,7 @@
 - React, Redux Toolkit, MSW
 - Vite, TypeScript, Postcss
 
-## Live demo at current version 1.1.0
+## Live demo at current version 1.0.0
 
 ![](./public/images/demo.png)
 
